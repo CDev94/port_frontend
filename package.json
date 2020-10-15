@@ -4,15 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start"
-},
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "author": "Curdarious Bell <Curdarious23@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "next": "^9.5.3",
+    "next": "^9.5.5",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "sass": "^1.27.0"
   }
 }
