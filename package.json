@@ -7,14 +7,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "build": "next build && next export"
+    "export": "next build && next export"
   },
   "author": "Curdarious Bell <Curdarious23@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "next": "^9.5.5",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "sass": "^1.27.0"
   }
 }
